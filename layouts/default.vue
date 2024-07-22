@@ -11,4 +11,6 @@ import layoutSidebar from '~/components/layouts/layout-sidebar.vue';
 
 </script>
 
-<style></style>
+<style>
+
+</style>
